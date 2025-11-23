@@ -3,6 +3,7 @@ Here is the simplified and updated **README.md** with image placeholders include
 ---
 
 ````markdown
+```
 # Disk Usage Monitoring with AWS SNS Alerts
 
 This project provides a simple shell script that monitors disk usage on a Linux system and sends an **email alert via AWS SNS** when disk usage exceeds a configured threshold.
@@ -132,6 +133,8 @@ Add:
 
 <img src="images/email-output-1.png" alt="App screenshot" width="900">
 
+---
+
 <img src="images/email-output-2.png" alt="App screenshot" width="900">
 
 
@@ -164,6 +167,5 @@ Run script again and verify SNS email.
 
 Pull requests and improvements are welcome!
 
-```
 
 ---
