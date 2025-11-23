@@ -1,9 +1,8 @@
-Here is the simplified and updated **README.md** with image placeholders included:
 
 ---
 
 ````markdown
-```
+````
 # Disk Usage Monitoring with AWS SNS Alerts
 
 This project provides a simple shell script that monitors disk usage on a Linux system and sends an **email alert via AWS SNS** when disk usage exceeds a configured threshold.
@@ -48,7 +47,7 @@ Enter:
 | -------------- | ------------------- |
 | AWS Access Key | `AKIA*********`     |
 | AWS Secret Key | `abc123***********` |
-| Default Region | `us-east-1`         |
+| Default Region | `ap-south-1`         |
 
 ---
 
